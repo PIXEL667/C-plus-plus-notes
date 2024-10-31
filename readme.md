@@ -1,4 +1,4 @@
-USE AN EXTENTION FOR BETTER UNDERSTANDING
+USE AN EXTENTION 🤖 FOR BETTER UNDERSTANDING 😃
 
 Name: Colorful Comments
 
@@ -11,3 +11,5 @@ Version: 1.0.0
 Publisher: Parth Rastogi
 
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ParthR2031.colorful-comments
+
+👾 GIVE A STAR ⭐ IF YOU LIKE IT 👍
