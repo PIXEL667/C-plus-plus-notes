@@ -53,5 +53,5 @@ int main()
     std::cout << day << '\n';
     std::cout << Month_date_year << '\n';
     
-    return 0;
+    return 0; // Indicate successful execution
 }
