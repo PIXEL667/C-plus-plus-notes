@@ -1,6 +1,3 @@
-
----
-
 **🌈 Colorful Comments Extension** 🤖  
 **Make Your Code More Understandable and Attractive!** 😃
 
