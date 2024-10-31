@@ -24,11 +24,11 @@ int main()
 
     //! char (stores only a single character) e.g.:
     char grade = 'A';
-    // char course = 'BA'; // Error: a char can only store one character.
+    //~ char course = 'BA'; // Error: a char can only store one character.
     char currency = '$';
 
     std::cout << grade << '\n'; // output is A
-    // std::cout << course << '\n'; // Error: uncommenting this line will give an error.
+    //~ std::cout << course << '\n'; // Error: uncommenting this line will give an error.
     std::cout << currency << '\n'; // output is $
 
 
