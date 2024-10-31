@@ -31,16 +31,4 @@ If you enjoy using Colorful Comments, please consider giving it a star ⭐ on th
 
 ---
 
-## 📣 Join the Community
-
-Connect with other users and share your colorful creations! Join our community forums and follow us on social media for the latest updates and tips.
-
----
-
-## 📧 Contact Us
-
-Have questions or feedback? Reach out to us at [support@colorfulcomments.com](mailto:support@colorfulcomments.com). We're here to help!
-
----
-
 Thank you for choosing Colorful Comments! Let's make coding a more colorful experience together! 🎨
